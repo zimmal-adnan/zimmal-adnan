@@ -2,7 +2,7 @@
 <h3 align="center">I'm a first year Information Technology student with a growing passion for software development and embedded systems</h3>
 
 <h2>About Me</h2>
-- Currently working on **an AI-based chess game**
+- Currently working on an AI-based chess game
 
 - I’m learning:<br> **- Databases and backend development <br>- Git and GitHub workflows <br>- Machine Learning**
 
