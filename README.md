@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! I'm Zimmal Adnan</h1>
-<h3 align="center">I'm a second year Information Technology student with a growing passion for software development and embedded systems</h3>
+<h3 align="center">I'm a third year Information Technology student with a growing passion for software development and embedded systems</h3>
 
 <h2>About Me</h2>
 - Currently working on a social media application
