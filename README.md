@@ -3,9 +3,8 @@
 <h3 align="center">I'm a third year Information Technology student with a growing passion for software development and embedded systems</h3>
 
 <h2>About Me</h2>
-- Currently working on a social media application
 
-- I’m learning:<br> **- Databases and backend development <br>- Git and GitHub workflows <br>- Machine Learning**
+- I’m learning:<br> **- Machine Learning <br>- Game Development with Unity 
 
 - Looking to collaborate on **beginner-friendly and student projects**
 
